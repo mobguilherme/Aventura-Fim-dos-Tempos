@@ -1,0 +1,47 @@
+{
+  "id": "aventura-fim-dos-tempos",
+  "title": "Aventura - Fim dos Tempos",
+  "description": "Contéudo da campanha da Aventura Fim dos Tempos",
+  "version": "0.5.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13" 
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {
+            "verified": "1.5.013" 
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "aventura-fim-dos-tempos",
+      "label": "Aventura - Fim dos Tempos",
+      "type": "Adventure",
+      "path": "./packs/aventura-fim-dos-tempos",
+      "system": "tormenta20",
+      "locked": true,
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "GAMEMASTER": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Fim dos Tempos",
+      "sorting": "m",
+      "color": "#6b0606",
+      "packs": [
+        "aventura-coracao-de-rubi"
+      ]
+    }
+  ],
+  "manifest": "https://github.com/mobguilherme/Aventura-Fim-dos-Tempos/releases/latest/download/module.json",
+  "download": "https://github.com/mobguilherme/Aventura-Fim-dos-Tempos/releases/download/v0.5.0/aventura-fim-dos-tempos.zip"
+}
