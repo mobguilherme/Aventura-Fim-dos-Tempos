@@ -28,7 +28,7 @@ Esse módulo não tem nada de suplementos e muito menos contém a história da c
 ### Instalação Manual
 
 1. Visite a [última versão](https://github.com/mobguilherme/Aventura-Fim-dos-Tempos/releases/download/v0.4.0/aventura-fim-dos-tempos.zip).
-2. Faça o Download do arquivo "BestiariodeArton.zip".
+2. Faça o Download do arquivo "aventura-fim-dos-tempos.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data "‌").
 4. Reinicie o Foundry se necessário.
 
