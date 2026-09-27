@@ -2,7 +2,7 @@
   "id": "aventura-fim-dos-tempos",
   "title": "Aventura - Fim dos Tempos",
   "description": "Contéudo da Aventura Fim dos Tempos",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -41,5 +41,5 @@
     }
   ],
   "manifest": "https://github.com/mobguilherme/Aventura-Fim-dos-Tempos/releases/latest/download/module.json",
-  "download": "https://github.com/mobguilherme/Aventura-Fim-dos-Tempos/releases/download/v0.4.0/aventura-fim-dos-tempos.zip"
+  "download": "https://github.com/mobguilherme/Aventura-Fim-dos-Tempos/releases/download/v0.5.0/aventura-fim-dos-tempos.zip"
 }
